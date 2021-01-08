@@ -1,0 +1,191 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.image {
+    position: relative;
+    width: 100%; 
+}
+ 
+.image h2 {
+    position: absolute;
+    top: 175px;
+    left: 4%;
+    font-family: 'Black Ops One';
+    font-size: 64px;
+}
+
+.image h6 {
+    position: absolute;
+    top: 230px;
+    left: 4%;
+    font-family: 'Black Ops One';
+    font-size: 18px;
+}
+
+.container-fluid{
+    position: relative;
+    margin-top: 10px;
+}
+
+.navbar a{
+    font-family:Tahoma, sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.form-inline{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.cardss h4 {
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.card {
+    border-color: rgb(143, 138, 138);
+    border-radius: 3px;
+}
+
+.row{
+    margin-top: 15px;
+}
+
+.panel{
+    text-align: center;
+    font-family:Tahoma, sans-serif;
+}
+
+.panel a+a{
+    margin-left: 20px;
+}
+
+.cardss {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.new-cards{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.new-cards h4{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.pages{
+    margin-top: 10px;
+    margin-left: 47%;
+}
+
+.btn2{
+    margin-left: 27%;
+}
+
+.card-text{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.cardss h6{
+    text-align: center;
+    font-family:Tahoma, sans-serif;
+}
+
+.alert{
+    width:70%;
+    margin-left:15%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container-fluid h4{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 25%;
+}
+
+.list-group{
+    width:55%;
+    margin-left:35%;
+    margin-top: 20px;
+}
+
+.list-group h6{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left:35%;
+}
+
+.col2{
+    margin-top: 60px;
+    margin-right: 20%;
+    margin-left: 10px;
+}
+
+.col2 h6{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left:20%;
+    margin-bottom:30px;
+    font-size: 18px;
+}
+
+.col2 p{
+    font-family: Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.col2 label{
+    font-family: Tahoma, sans-serif;
+}
+
+.navig{
+    margin-left: 20px;
+    width:90%
+}
+
+.carousel-slide{
+    margin-left: 30%;
+}
+
+.breadcrumb{
+    background-color: white;
+}
+
+.filtr{
+    position: relative;
+    margin-left: 15%;
+    margin-top: 50px;
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(218, 216, 211);
+}
+
+.filtr h6{
+    margin-left: 30%;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.form-group-filtr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.container-fluid h3{
+    margin-left: 35%;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
